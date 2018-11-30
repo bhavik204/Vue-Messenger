@@ -219,7 +219,7 @@
                                 <image class="attach-icon" src="https://www.materialui.co/materialIcons/content/send_grey_96x96.png"/>
                             </div>
                         </div>
-                        <div class="richpanel">
+                        <div class="richpanel-2">
                             <div class="rich-align">
                                 <v-text class="richpanel2">RichPanel </v-text>
                             </div>
